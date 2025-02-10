@@ -3,7 +3,7 @@
 Hi all, this is a working springboot application which I have done as part of my applied cloud programming coursework at UOE.
 <b>
 This application uses an in memory database (H2) to store data, and a REST controller for managing the endpoints.
-<b>
+<br>
 It is a simple starting template for anyone that wants to build a REST service in spring boot.
 ## Pre-requisite
 This project assumes you have maven installed.
